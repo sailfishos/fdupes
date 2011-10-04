@@ -1,0 +1,14 @@
+<package project="Mer:Trunk:Base" name="fdupes">
+  <title>Identifying or deleting duplicate files</title>
+  <description>FDUPES is a program for identifying or deleting duplicate files
+residing within specified directories
+
+
+
+Authors:
+--------
+    Adrian Lopez &lt;adrian2@caribe.net&gt;
+
+</description>
+  <url>http://premium.caribe.net/~adrian2/fdupes.html</url>
+</package>

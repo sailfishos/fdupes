@@ -1,0 +1,11 @@
+* Tue Sep 01 2009 Anas Nashif <anas.nashif@intel.com> - 1.40
+- Initial import into Moblin
+
+* Thu Sep  6 2007 mls@suse.de
+- do not hardlink empty files in %%fdupes macro
+* Wed Sep  5 2007 nadvornik@suse.cz
+- support filenames with spaces in %%fdupes macro [#307727]
+* Tue May 15 2007 coolo@suse.de
+- add an RPM macro to make use of it in spec files
+* Thu Nov 16 2006 dmueller@suse.de
+- Initial package (1.40)
