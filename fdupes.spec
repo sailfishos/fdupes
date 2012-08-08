@@ -17,9 +17,9 @@ Summary:        Identifying or deleting duplicate files
 Version:        1.40
 Release:        42.66
 License:        X11/MIT
-Source0:        %name-%{version}.tar.bz2
-Source1:        macros.fdupes
-Patch0:         %name.diff
+Source0:        %{name}-%{version}.tar.bz2
+Source1:        macros.%{name}
+Patch0:         %{name}.diff
 BuildRoot:      %{_tmppath}/%{name}-%{version}-build
 
 %description
